@@ -20,6 +20,7 @@
       <mapping pattern="install-sh" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="db3" type="PLAIN_TEXT" />
       <mapping ext="daily" type="PLAIN_TEXT" />
