@@ -13,6 +13,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".deps" type="PLAIN_TEXT" />
+      <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="missing" type="PLAIN_TEXT" />
       <mapping pattern="sdfgvbjn" type="PLAIN_TEXT" />
       <mapping pattern="paged-responses-breakdown" type="PLAIN_TEXT" />
