@@ -1,9 +1,0 @@
-<application>
-  <component name="MaterialThemeConfig">
-    <option name="isHighContrast" value="true" />
-    <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="43df4d69:16ae69cdddd:-8000" />
-    <option name="version" value="3.8.0.2" />
-  </component>
-</application>
