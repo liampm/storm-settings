@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9e916738-dbab-4a40-a59e-6c371343dc73" name="My VM via SFTP" url="http://php7.edr-0572.dev.edig.co.uk">
+        <fileTransfer host="php7.edr-0572.dev.edig.co.uk" port="2225" accessType="SFTP">
+          <option name="port" value="2225" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
