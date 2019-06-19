@@ -3,44 +3,36 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="mo" type="Locale" />
-      <removed_mapping ext="phpt" type="PHPT" />
-      <mapping pattern="install-sh" type="PLAIN_TEXT" />
-      <mapping pattern="missing" type="PLAIN_TEXT" />
-      <mapping pattern="mkinstalldirs" type="PLAIN_TEXT" />
-      <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="paged-responses-breakdown" type="PLAIN_TEXT" />
-      <mapping pattern="init" type="PLAIN_TEXT" />
-      <mapping pattern="CREDITS" type="PLAIN_TEXT" />
-      <mapping pattern="sdfgvbjn" type="PLAIN_TEXT" />
-      <mapping pattern=".deps" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="IDF_CLIENT_SECRET" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="DATEBASE_USER" type="PLAIN_TEXT" />
       <mapping pattern="docker-env" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="mkinstalldirs" type="PLAIN_TEXT" />
+      <mapping pattern="IDF_CLIENT_SECRET" type="PLAIN_TEXT" />
+      <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping ext="error_log" type="PLAIN_TEXT" />
-      <mapping ext="awk" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".deps" type="PLAIN_TEXT" />
+      <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
+      <mapping pattern="missing" type="PLAIN_TEXT" />
+      <mapping pattern="sdfgvbjn" type="PLAIN_TEXT" />
+      <mapping pattern="paged-responses-breakdown" type="PLAIN_TEXT" />
+      <mapping pattern="CREDITS" type="PLAIN_TEXT" />
+      <mapping pattern="install-sh" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="db3" type="PLAIN_TEXT" />
       <mapping ext="daily" type="PLAIN_TEXT" />
-      <mapping ext="phpt" type="PLAIN_TEXT" />
+      <mapping ext="awk" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="phpt" type="PLAIN_TEXT" />
+      <mapping ext="error_log" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="migration" type="SQL" />
       <mapping ext="xhtmlf" type="XHTML" />
       <mapping pattern="*.yml.dist" type="YAML" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="phpt" type="PHPT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
