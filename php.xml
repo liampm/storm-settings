@@ -1,12 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="47a27eb3-ae48-4716-a650-0781558e021d" name="Remote PHP" home="sftp://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="9e916738-dbab-4a40-a59e-6c371343dc73" WEB_SERVER_CONFIG_NAME="My VM via SFTP" WEB_SERVER_CREDENTIALS_ID="sftp://dev@edr-0572.dev.edig.co.uk:2223" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/dev/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
-      </interpreter>
-      <interpreter id="6da5a1e7-cebc-4893-a430-fab812b7d740" name="PHP 7" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP">
@@ -158,10 +150,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="47a27eb3-ae48-4716-a650-0781558e021d" bootstrap_file_path="/www/edr_phpunit/bin/bootstrap.php" configuration_file_path="/www/edr_phpunit/tests/phpunit.xml" custom_loader_path="" phpunit_phar_path="/www/edr_phpunit/lib/vendor/bin/phpunit" use_bootstrap_file="true" use_configuration_file="true" />
-    </phpunit_settings>
   </component>
 </application>
