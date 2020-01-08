@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="MASTER_APP_INSTANCE_KEY" type="PLAIN_TEXT" />
       <mapping pattern="sync-hub-yml" type="PLAIN_TEXT" />
+      <mapping ext="mmdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
