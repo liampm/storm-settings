@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="GEO_IP_KEY" type="PLAIN_TEXT" />
       <mapping pattern="MASTER_APP_INSTANCE_KEY" type="PLAIN_TEXT" />
       <mapping pattern="GEOIP_KEY" type="PLAIN_TEXT" />
-      <mapping pattern="GEO_IP_KEY" type="PLAIN_TEXT" />
       <mapping pattern="SENTRY_DSN" type="PLAIN_TEXT" />
       <mapping pattern="sync-hub-yml" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
