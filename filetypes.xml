@@ -7,6 +7,7 @@
       <mapping pattern="SENTRY_DSN" type="PLAIN_TEXT" />
       <mapping pattern="sync-hub-yml" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping ext="rockspec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
