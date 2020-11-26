@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="MASTER_APP_INSTANCE_KEY" type="PLAIN_TEXT" />
       <mapping pattern="GEO_IP_KEY" type="PLAIN_TEXT" />
