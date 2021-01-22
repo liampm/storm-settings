@@ -703,6 +703,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.lua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.tang" />
+              <option name="myPluginName" value="EmmyLua" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.lua.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.tang" />
+              <option name="myPluginName" value="EmmyLua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.markdown">
           <value>
             <plugin>
@@ -1705,6 +1721,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="makefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="phpunit.xml.dist">
           <value>
             <plugin>
@@ -1932,6 +1956,21 @@
                   <entry key="js.build_tools.npm">
                     <value>
                       <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="lua.app">
+                    <value>
+                      <FeaturePluginData displayName="Lua Application" pluginName="EmmyLua" pluginId="com.tang" />
+                    </value>
+                  </entry>
+                  <entry key="lua.emmy.debugger">
+                    <value>
+                      <FeaturePluginData displayName="Emmy Debugger(NEW)" pluginName="EmmyLua" pluginId="com.tang" />
+                    </value>
+                  </entry>
+                  <entry key="lua.mobdebug">
+                    <value>
+                      <FeaturePluginData displayName="Lua Remote(Mobdebug)" pluginName="EmmyLua" pluginId="com.tang" />
                     </value>
                   </entry>
                   <entry key="mocha-javascript-test-runner">
