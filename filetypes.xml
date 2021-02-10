@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="LOGIT_DECRYPTION_KEY" type="AUTO_DETECTED" />
       <mapping pattern="MASTER_APP_INSTANCE_KEY" type="PLAIN_TEXT" />
       <mapping pattern="GEO_IP_KEY" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
