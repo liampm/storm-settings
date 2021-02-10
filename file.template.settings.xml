@@ -1,11 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
-    <includes_templates>
-      <template name="PHP Class Doc Comment.php" reformat="true" live-template-enabled="false" enabled="false" />
-      <template name="PHP Function Doc Comment.php" reformat="true" live-template-enabled="false" enabled="false" />
-      <template name="PHP Interface Doc Comment.php" reformat="true" live-template-enabled="false" enabled="false" />
-      <template name="PHP Property Doc Comment.php" reformat="true" live-template-enabled="false" enabled="false" />
-      <template name="PHP Trait Doc Comment.php" reformat="true" live-template-enabled="false" enabled="false" />
-    </includes_templates>
+    <code_templates>
+      <template name="PHP Getter Method.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
   </component>
 </application>
