@@ -5,7 +5,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>json</mask>
     <mask>.ts</mask>
-    <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
