@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="vendor_dev" type="AUTO_DETECTED" />
       <mapping pattern="LOGIT_DECRYPTION_KEY" type="AUTO_DETECTED" />
       <mapping pattern="LOGIT_SIGNING_KEY" type="AUTO_DETECTED" />
       <mapping pattern="MASTER_APP_INSTANCE_KEY" type="PLAIN_TEXT" />
