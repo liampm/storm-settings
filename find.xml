@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../assets/js/components/Schema/Form/Source/JsonPointer.jsx'" />
     <option name="defaultScopeName" value="File '.../assets/js/components/Schema/Form/Source/JsonPointer.jsx'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../assets/js/components/Schema/Form/Source/JsonPointer.jsx'" />
     <mask>json</mask>
     <mask>.ts</mask>
