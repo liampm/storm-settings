@@ -19,7 +19,7 @@
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
     <entry key="ide.new.project.model.cache" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
