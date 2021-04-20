@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="vendor_dev" type="AUTO_DETECTED" />
       <mapping pattern="LOGIT_DECRYPTION_KEY" type="AUTO_DETECTED" />
       <mapping pattern="LOGIT_SIGNING_KEY" type="AUTO_DETECTED" />
+      <mapping pattern="APP_ENCRYPTION_KEY" type="AUTO_DETECTED" />
       <mapping pattern="MASTER_APP_INSTANCE_KEY" type="PLAIN_TEXT" />
       <mapping pattern="GEO_IP_KEY" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -13,11 +15,11 @@
       <mapping pattern="APP_SECRET" type="PLAIN_TEXT" />
       <mapping pattern="IDF_CLIENT_SECRET" type="PLAIN_TEXT" />
       <mapping ext="rockspec" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="migration" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="migration" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
