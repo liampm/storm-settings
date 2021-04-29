@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="reopenLastProject" value="false" />
     <option name="searchInBackground" value="true" />
   </component>
   <component name="Registry">
@@ -18,7 +19,22 @@
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="0" />
+    <entry key="ide.win.file.chooser.native" value="true" />
+    <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
+    <entry key="ide.borderless.tab.caption.in.title" value="false" />
+    <entry key="ide.borderless.title.product" value="false" />
+    <entry key="ide.borderless.title.version" value="false" />
+    <entry key="ide.debug.in.title" value="true" />
+    <entry key="debugger.new.debug.tool.window.view" value="true" />
+    <entry key="ea.enable.developers.list" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
+    <entry key="show.log.as.editor.tab" value="false" />
+    <entry key="show.diff.preview.as.editor.tab" value="true" />
+    <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
+    <entry key="light.edit.file.open.enabled" value="false" />
   </component>
 </application>
