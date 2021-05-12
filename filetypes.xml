@@ -15,11 +15,11 @@
       <mapping pattern="APP_SECRET" type="PLAIN_TEXT" />
       <mapping pattern="IDF_CLIENT_SECRET" type="PLAIN_TEXT" />
       <mapping ext="rockspec" type="PLAIN_TEXT" />
-      <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="migration" type="PLAIN_TEXT" />
+      <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="migration" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
