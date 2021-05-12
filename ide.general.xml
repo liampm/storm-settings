@@ -19,7 +19,6 @@
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
-    <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.win.file.chooser.native" value="true" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
@@ -36,5 +35,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>
