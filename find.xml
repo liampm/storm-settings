@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'PureStoreCore'" />
+    <option name="defaultScopeName" value="Project 'PureStoreCore'" />
+    <option name="SEARCH_SCOPE" value="Project 'PureStoreCore'" />
     <mask>json</mask>
     <mask>.ts</mask>
     <mask>*.yml</mask>
