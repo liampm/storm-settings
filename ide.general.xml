@@ -5,7 +5,7 @@
   </component>
   <component name="Registry">
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.balloon.shadow.size" value="15" />
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.require.transaction.for.model.changes" value="false" />
     <entry key="search.everywhere.pattern.checking" value="false" />
@@ -34,7 +34,6 @@
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
-    <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
